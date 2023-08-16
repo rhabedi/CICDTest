@@ -1,0 +1,2 @@
+This is fileB
+This file is modified as well
